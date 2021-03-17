@@ -1,13 +1,8 @@
 /*
  Name: Joshua Lavieri
- Z#: Z23477048
  Instructor: Dr. Bullard
  Class:Data Structures
- Term: Fall 2020
- Assignment #9 (vlist)
- Due Date: November 12, 2020
- Due Time:   11:00PM
- Points: 25
+ 
  Description: Inserts string data types into a vector in alphabetical order
 */
 
